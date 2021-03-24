@@ -1,5 +1,5 @@
 ### Hi there 👋
-Graduated from NYU with a BS in Computer Science and Applied Math, interested in mobile + backend dev, and the field of big data!
+Graduated from NYU with a BS in Computer Science and Applied Math, interested in mobile + backend dev, and the field of big data.
 
 I am currently a software engineer at BNY Mellon finding new approaches/integrations to change the way we look at data.
 
