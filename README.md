@@ -7,8 +7,8 @@
 
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=salmansiraj&show_icons=true&locale=en&theme=dracula" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansiraj&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansiraj&show_icons=true&locale=en&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansiraj&layout=compact&theme=dracula" />
 </p>
 
 
