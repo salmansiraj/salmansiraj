@@ -5,10 +5,13 @@
 - 🌱 Learning more frontend technologies(React, Angular, etc.), currently taking a React, Waterloo's distributed systems, and Google's PM ccourse
 - ✉️ Visit my personal portfolio at https://www.salmansiraj.com and if you wanna chat feel free to <a href="mailto:salmansiraj98@gmail.com"> email</a> me!
 
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansiraj&show_icons=true&locale=en&theme=dracula" />
+</p>
+
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmansiraj&layout=compact&theme=dracula" />
 </p>
+
 
 
